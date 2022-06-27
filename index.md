@@ -16,6 +16,9 @@
 * [3.2](Section03/3.2.md)
 * [3.3](Section03/3.3.md)
 
+## 在 HTTP/3 中表达 HTTP 语义
+* [4.0](Section04/4.0.md)
+* [4.1](Section04/4.1.md)
 
 
 
