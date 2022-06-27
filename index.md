@@ -10,6 +10,11 @@
 * [2.1](Section02/2.1.md)
 * [2.2](Section02/2.2.md)
 
+## 连接设置和管理
+* [3.0](Section03/3.0.md)
+* [3.1](Section03/3.1.md)
+* [3.2](Section03/3.2.md)
+* [3.3](Section03/3.3.md)
 
 
 
