@@ -16,9 +16,14 @@
 * [3.2](Section03/3.2.md)
 * [3.3](Section03/3.3.md)
 
-## 在 HTTP/3 中表达 HTTP 语义
+## 在HTTP/3中表达HTTP语义
 * [4.0](Section04/4.0.md)
 * [4.1](Section04/4.1.md)
+* [4.2](Section04/4.2.md)
+* [4.3](Section04/4.3.md)
+* [4.4](Section04/4.4.md)
+* [4.5](Section04/4.5.md)
+* [4.6](Section04/4.6.md)
 
 
 
